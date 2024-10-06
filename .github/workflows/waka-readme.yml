@@ -19,7 +19,7 @@ jobs:
           LANG_COUNT: 10 # optional
           SHOW_TIME: false # optional
           SHOW_TOTAL: false # optional
-          IGNORED_LANGUAGES: YAML JSON TOML Markdown Text CSV Git # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Markdown Text CSV Git RMarkdown Git Config # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
