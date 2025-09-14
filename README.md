@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8873DE&width=435&lines=Hello+I'm+Ivy+Streeter!;'m+interested+in+genomics+data+and+NGS+workflows.+;Let's+connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8873DE&width=435&lines=Hello+I'm+Ivy+Streeter!;I'm+interested+in+genomics+data+and+NGS+workflows.+;Let's+connect!)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
 
